@@ -6,5 +6,5 @@ devices.
 
 ## Configurations
 
-- T15: the on I'm using at my thinkpad. Also using zsh on the terminal with
+- T15: the one I'm using at my thinkpad. Also using zsh on the terminal with
   powerlevel9k oh-my-zsh theme.
